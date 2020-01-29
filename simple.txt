@@ -1,2 +1,2 @@
 Hello world.
-Some local changes.
+Some changes.
