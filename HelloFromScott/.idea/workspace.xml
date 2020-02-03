@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a6e7e28-1371-463a-b547-62ae71ad0571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/currell/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XHT6PrVUag5Eg33xloEE1jsXiz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="currell.Main" />
+      <module name="HelloFromScott" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="currell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a6e7e28-1371-463a-b547-62ae71ad0571" name="Default Changelist" comment="" />
+      <created>1580701844913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580701844913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580702594226">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702594226" />
+    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1580702659939">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="280" key="FileChooserDialogImpl/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702659939" />
+    <state x="-1097" y="419" key="Github.ShareDialog" timestamp="1580702028462">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1097" y="419" key="Github.ShareDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702028462" />
+    <state x="-1459" y="168" key="SettingsEditor" timestamp="1580702667444">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="168" key="SettingsEditor/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702667444" />
+    <state x="-1368" y="259" key="Vcs.Push.Dialog.v2" timestamp="1580702880783">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="259" key="Vcs.Push.Dialog.v2/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702880783" />
+    <state x="-1266" y="317" key="git4idea.merge.GitPullDialog" timestamp="1580702247695">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1266" y="317" key="git4idea.merge.GitPullDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702247695" />
+  </component>
+</project>
