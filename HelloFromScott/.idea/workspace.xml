@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a6e7e28-1371-463a-b547-62ae71ad0571" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/currell/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/currell/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/currell/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HelloFromKyle" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -82,14 +84,30 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1506" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702594226" />
-    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1580702659939">
+    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1580789692207">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1180" y="280" key="FileChooserDialogImpl/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702659939" />
+    <state x="-1180" y="280" key="FileChooserDialogImpl/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580789692207" />
     <state x="-1097" y="419" key="Github.ShareDialog" timestamp="1580702028462">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1097" y="419" key="Github.ShareDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702028462" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580789622307">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580789622307" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1580789622307">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580789622307" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1580789622307">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580789622307" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1580789622307">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580789622307" />
     <state x="-1459" y="168" key="SettingsEditor" timestamp="1580702667444">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -98,6 +116,10 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1368" y="259" key="Vcs.Push.Dialog.v2/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580702880783" />
+    <state x="-1264" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1580788495065">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1264" y="350" key="com.intellij.ide.util.TipDialog/-966.1080.1280.700/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1580788495065" />
     <state x="-1266" y="317" key="git4idea.merge.GitPullDialog" timestamp="1580702247695">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
