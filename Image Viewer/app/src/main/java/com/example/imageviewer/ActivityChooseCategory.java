@@ -19,4 +19,11 @@ public class ActivityChooseCategory extends AppCompatActivity {
 
         startActivity(intent);
     }
+
+    /** Called when the user taps the 'Home' button */
+    public void viewCategory(View view) {
+        Intent intent = new Intent(getApplicationContext(), ActivityDisplayCategory.class);
+
+        startActivity(intent);
+    }
 }
